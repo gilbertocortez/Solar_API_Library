@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Kameron');
+
+h1,
+h2 {
+    font-family: 'Kameron', serif;
+    font-weight: bold;
+}
+
+.navbar-header {
+    margin-top: .5rem;
+}
+
+.navbar-header img { 
+    width: 250px;
+}
+
+header col {
+    vertical-align: bottom;
+}
+
+.header-title {
+    margin-bottom: 0;
+}
+
+.google_map {
+    width: 100%;
+    height: 500px;
+}
+
+.row {
+    --bs-gutter-x: 0 !important;
+}
+
+.address_container {
+    background-color: lightgreen;
+    margin-top: 1rem;
+    padding: 1rem .5rem;
+    overflow: hidden;
+}
+
+.address_container label {
+    font-weight: bold;
+    margin: .5rem 0;
+}
+
+.address_container #property_address_input {
+    width: 100%;
+    padding: .5rem .25rem;
+}
+
+.address_container button {
+    padding: .5rem 1.25rem;
+    margin-left: 1rem;
+}
+
+.app_controls {
+    background-color: lightblue;
+    padding: 1rem .5rem;
+    text-align: center;
+    vertical-align: middle;
+    margin-bottom: 1rem;
+    overflow: hidden;
+}
