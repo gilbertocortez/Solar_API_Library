@@ -36,7 +36,3 @@ Ensure the following frameworks are included in your project for the Solar API L
 - **Google Maps JavaScript API:** Essential for mapping functionalities.
 - **GeoTIFF.js:** Required for handling GeoTIFF files.
 - **Proj4.js:** Necessary for cartographic projections and transformations.
-
----
-
-Remember to replace placeholders (like where to insert the API key) with actual instructions or values relevant to your project. This revised README provides a clearer, more structured guide for users looking to implement your Solar API Library.
